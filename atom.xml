@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://www.wangdekun.com/"/>
   <updated>2018-11-30T14:05:31.169Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://www.wangdekun.com/</id>
   
   <author>
     <name>T-wdk</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Init</title>
-    <link href="http://yoursite.com/2018/11/30/Init/"/>
-    <id>http://yoursite.com/2018/11/30/Init/</id>
+    <link href="http://www.wangdekun.com/2018/11/30/Init/"/>
+    <id>http://www.wangdekun.com/2018/11/30/Init/</id>
     <published>2018-11-30T13:12:00.000Z</published>
     <updated>2018-11-30T14:05:31.169Z</updated>
     
@@ -35,10 +35,10 @@
     
     </summary>
     
-      <category term="测试" scheme="http://yoursite.com/categories/%E6%B5%8B%E8%AF%95/"/>
+      <category term="测试" scheme="http://www.wangdekun.com/categories/%E6%B5%8B%E8%AF%95/"/>
     
     
-      <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
+      <category term="测试" scheme="http://www.wangdekun.com/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
